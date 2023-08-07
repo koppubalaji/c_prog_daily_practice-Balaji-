@@ -1,4 +1,0 @@
-
-
-
-int reverse(int num); 
